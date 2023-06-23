@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1687487839 source:a:\education\utn\tup\primer ano\primer cuatrimestre\laboratorio 1\6 - arrays y matrices\guia_6\guia6_ej10\guia6_ej10\main.cpp
+	<iostream>
+	"funciones.h"
+
+1687480750 source:a:\education\utn\tup\primer ano\primer cuatrimestre\laboratorio 1\6 - arrays y matrices\guia_6\guia6_ej10\guia6_ej10\funciones.cpp
+	<iostream>
+	"funciones.h"
+	<ctime>
+	<cstdio>
+
+1687479582 a:\education\utn\tup\primer ano\primer cuatrimestre\laboratorio 1\6 - arrays y matrices\guia_6\guia6_ej10\guia6_ej10\funciones.h
+
